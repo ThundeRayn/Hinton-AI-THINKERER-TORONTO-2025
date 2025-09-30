@@ -2,6 +2,7 @@ import Navbar from './Section/Navbar';
 import Hero from './Section/Hero/Hero';
 import Content from './Section/Content';
 import Footer from './Section/Footer';
+import CardHero from './Section/CardHero/CardHero';
 
 function App() {
   return (
@@ -9,6 +10,8 @@ function App() {
       <Navbar />
 
       <Hero />
+
+      <CardHero />
 
       <Content />
 
