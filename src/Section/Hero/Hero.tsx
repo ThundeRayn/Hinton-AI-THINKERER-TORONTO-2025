@@ -6,13 +6,13 @@ const Hero = () => {
     <div className="relative min-h-screen flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-br from-slate-950 via-slate-900 to-amber-950 opacity-90 z-0"></div>
 
-        <div
+        {/* <div
           className="absolute inset-0 z-0 bg-cover bg-center bg-no-repeat"
           style={{
             backgroundImage: "url('https://images.pexels.com/photos/6207875/pexels-photo-6207875.jpeg?auto=compress&cs=tinysrgb&w=1920')",
             opacity: 0.25
           }}
-        ></div>
+        ></div> */}
 
         <div className="absolute inset-0 z-0">
           <div className="absolute top-20 left-10 w-64 h-64 bg-amber-500/10 rounded-full blur-3xl animate-pulse"></div>

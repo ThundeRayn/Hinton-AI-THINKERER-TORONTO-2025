@@ -12,7 +12,7 @@ function App() {
       <CardHero />
       <Hero />
 
-      <Content />
+      {/* <Content /> */}
 
       <Footer />
     </div>
