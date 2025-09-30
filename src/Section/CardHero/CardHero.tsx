@@ -218,10 +218,10 @@ const CardHero = () => {
       <div className={`content-container w-full h-screen flex items-center justify-center p-4 z-10 ${styles.content}`}>
         <div className={`text-center max-w-3xl mx-auto ${styles.fadeIn}`}>
           <h1 className={`text-5xl md:text-7xl lg:text-8xl font-black text-white ${styles.textShadowGold}`}>
-            Elegance in Motion
+            Facing Indigenous Agents 
           </h1>
           <p className="mt-4 text-lg md:text-xl text-gray-300 max-w-2xl mx-auto">
-            Discover a new paradigm of digital interaction where technology and artistry intertwine. We craft fluid, responsive experiences that captivate and inspire.
+            Indigenous organizations teaching truth & reconciliation to build stronger communities and heal historical wounds.
           </p>
           <div className="mt-10 flex items-center justify-center">
             <button className={`bg-gradient-to-r from-yellow-500 to-orange-400 text-black font-bold py-3 px-8 rounded-full transform hover:scale-105 ${styles.buttonGlow}`}>

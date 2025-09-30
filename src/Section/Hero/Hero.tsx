@@ -20,31 +20,8 @@ const Hero = () => {
         </div>
 
         <div className="relative z-10 max-w-6xl mx-auto px-6 md:px-12 py-20 text-center">
-          <div className="inline-flex items-center gap-2 bg-amber-500/10 border border-amber-500/20 rounded-full px-3 py-1.5 mb-6">
-            <Sparkles className="w-3.5 h-3.5 text-amber-400" />
-            <span className="text-xs text-amber-200">Human-in-the-Loop AI for Indigenous Communities</span>
-          </div>
-
-          <h1 className="text-4xl md:text-6xl font-bold mb-4 leading-tight">
-            Empowering Indigenous Youth
-            <span className="block mt-2 bg-gradient-to-r from-amber-400 via-orange-400 to-amber-500 text-transparent bg-clip-text">
-              Through AI Technology
-            </span>
-          </h1>
-
-          <p className="text-base md:text-lg text-slate-300 mb-10 max-w-2xl mx-auto leading-relaxed">
-            Bridging traditional wisdom with cutting-edge artificial intelligence
-            to create meaningful opportunities for Indigenous youth worldwide.
-          </p>
 
           <div className="flex flex-col sm:flex-row gap-3 justify-center items-center mb-12">
-            <a
-              href="#demo"
-              className="group inline-flex items-center gap-2 bg-gradient-to-r from-amber-500 to-orange-500 hover:from-amber-600 hover:to-orange-600 text-white text-sm font-medium px-6 py-3 rounded-full transition-all transform hover:scale-105 shadow-lg shadow-amber-500/30"
-            >
-              Experience the Demo
-              <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
-            </a>
             <a
               href="#mission"
               className="inline-flex items-center gap-2 bg-white/5 hover:bg-white/10 backdrop-blur-sm border border-white/10 text-white text-sm font-medium px-6 py-3 rounded-full transition-all"

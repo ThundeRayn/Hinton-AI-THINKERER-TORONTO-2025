@@ -9,9 +9,8 @@ function App() {
     <div className="min-h-screen bg-slate-950 text-white">
       <Navbar />
 
-      <Hero />
-
       <CardHero />
+      <Hero />
 
       <Content />
 

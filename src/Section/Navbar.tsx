@@ -38,13 +38,13 @@ const Navbar = () => {
         <div className="max-w-7xl mx-auto flex justify-between items-center">
           <div className="flex items-center gap-2">
             <Sparkles className="w-6 h-6 text-amber-400" />
-            <span className="text-xl font-semibold">Indigenous AI Initiative</span>
+            <span className="text-xl font-semibold">Hinton AI</span>
           </div>
           <a
             href="#demo"
             className="text-sm font-medium hover:text-amber-400 transition-colors"
           >
-            View Demo
+            Learn more
           </a>
         </div>
       </nav>
