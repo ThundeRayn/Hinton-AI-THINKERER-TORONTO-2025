@@ -224,9 +224,14 @@ const CardHero = () => {
             Indigenous organizations teaching truth & reconciliation to build stronger communities and heal historical wounds.
           </p>
           <div className="mt-10 flex items-center justify-center">
-            <button className={`bg-gradient-to-r from-yellow-500 to-orange-400 text-black font-bold py-3 px-8 rounded-full transform hover:scale-105 ${styles.buttonGlow}`}>
-              Begin the Journey
-            </button>
+            <a 
+              href="https://zenaida-unintrusive-rumply.ngrok-free.dev/dev-ui/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className={`bg-gradient-to-r from-yellow-500 to-orange-400 text-black font-bold py-3 px-8 rounded-full transform hover:scale-105 ${styles.buttonGlow} inline-block`}
+            >
+              View Live Demo
+            </a>
           </div>
         </div>
       </div>

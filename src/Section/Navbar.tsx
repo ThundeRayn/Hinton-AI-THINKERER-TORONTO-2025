@@ -41,10 +41,12 @@ const Navbar = () => {
             <span className="text-xl font-semibold">Hinton AI</span>
           </div>
           <a
-            href="#demo"
+            href="https://zenaida-unintrusive-rumply.ngrok-free.dev/dev-ui/"
+            target="_blank"
+            rel="noopener noreferrer"
             className="text-sm font-medium hover:text-amber-400 transition-colors"
           >
-            Learn more
+            View Live Demo
           </a>
         </div>
       </nav>
